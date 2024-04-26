@@ -28,9 +28,29 @@
 
 &nbsp;
 
+<h3 align="center">🧑‍💻 Sobre Mim!</h3>
+
 <p align="center">
-Olá, meu nome é Vicente Matheus e sou estudante de Tecnologia da Informação na Faculdade Polícia Militar (FPM). Meu objetivo é trabalhar com engenharia de software e tenho me especializado em desenvolvimento back-end. Atualmente, possuo conhecimento em Node.js e estou buscando aprimorar meus conhecimentos em C#, PHP e SQL.
+Olá, meu nome é Vicente Matheus e sou estudante de Tecnologia da Informação na Faculdade Polícia Militar (FPM). Meu objetivo é trabalhar com engenharia de software e tenho me especializado em desenvolvimento back-end. Atualmente, possuo conhecimento em Node.js e estou buscando aprimorar meus conhecimentos em C# e desenvolver conhecimentos em PHP e SQL.
 </p>
+
+<h3 align="center">🛠️ Linguagens e Soluções.</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
 
 &nbsp;
 
