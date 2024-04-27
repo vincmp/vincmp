@@ -6,11 +6,11 @@
 </h3>
 
 <h6 align="center">
-  <a href="www.google.com">LinkedIn [EM CONSTRUÇÃO]</a>
+  <a href="https://www.google.com">LinkedIn [EM CONSTRUÇÃO]</a>
   ·
-  <a href="www.google.com">Website [EM CONSTRUÇÃO]</a>
+  <a href="https://www.google.com">Website [EM CONSTRUÇÃO]</a>
   ·
-  <a href="www.google.com">Twitter [EM CONSTRUÇÃO]</a>
+  <a href="https://www.google.com">Twitter [EM CONSTRUÇÃO]</a>
 </h6>
 
 <p align="center">
