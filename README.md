@@ -17,17 +17,6 @@
   <img src="https://i.imgur.com/2ZHhPj1.png" width="400" />
 </p>
 
-<p align="center">
-	<a href="https://github.com/vincmp/vincmp/stargazers">
-		<img alt="Stargazers" src="https://img.shields.io/github/stars/vincmp?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
-	<a href="https://github.com/vincmp/Project-Vortex/releases/latest">
-		<img alt="Releases" src="https://img.shields.io/github/release/vincmp/vincmp.svg?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41"/></a>
-	<a href="https://github.com/vincmp/Project-Vortex/issues">
-		<img alt="Issues" src="https://img.shields.io/github/issues/vincmp/vincmp?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
-</p>
-
-&nbsp;
-
 <h3 align="center">🧑‍💻 Sobre Mim!</h3>
 
 <p align="center">
