@@ -6,7 +6,7 @@
 </h3>
 
 <h6 align="center">
-  <a href="https://www.linkedin.com/in/vincmpimenta/">LinkedIn [EM CONSTRUÇÃO]</a>
+  <a href="https://www.linkedin.com/in/vincmpimenta/">LinkedIn</a>
   ·
   <a href="https://www.google.com">Website [EM BREVE]</a>
   ·
