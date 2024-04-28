@@ -17,13 +17,21 @@
   <img src="https://i.imgur.com/2ZHhPj1.png" width="400" />
 </p>
 
-<h3 align="center">🧑‍💻 Sobre Mim!</h3>
+<h3 align="center">🧑‍💻 Sobre Mim! |  About Me</h3>
 
 <p align="center">
 Olá, meu nome é Vicente Matheus e sou estudante de Tecnologia da Informação na Faculdade Polícia Militar (FPM). Meu objetivo é trabalhar com engenharia de software e tenho me especializado em desenvolvimento back-end. Atualmente, possuo conhecimento em Node.js e estou buscando aprimorar meus conhecimentos em C# e desenvolver conhecimentos em PHP e SQL.
 </p>
 
-<h3 align="center">🛠️ Linguagens e Soluções.</h3>
+<p align="center">
+_______________________________________________________________
+</p>
+
+<p align="center">
+Hello, my name is Vicente Matheus, and I'm a student of Information Technology at the Military Police College (FPM). My goal is to work in software engineering, and I have specialized in back-end development. Currently, I have knowledge in Node.js, and I'm seeking to enhance my skills in C# while also developing proficiency in PHP and SQL.
+</p>
+
+<h3 align="center">🛠️ Linguagens e Soluções. | Languages and Solutions.</h3>
 
 ###
 
