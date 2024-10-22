@@ -8,7 +8,7 @@
 <h6 align="center">
   <a href="https://www.linkedin.com/in/vincmpimenta/">LinkedIn</a>
   ·
-  <a href="https://www.google.com">Website [EM BREVE]</a>
+  <a href="https://www.vincmp.dev">Website</a>
   ·
   <a href="https://www.google.com">Twitter [EM BREVE]</a>
 </h6>
